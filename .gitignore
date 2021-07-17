@@ -1,0 +1,12 @@
+*
+
+!**/*.go
+!**/*.md
+!**/*.json
+!*/
+!.gitignore
+!**/Makefile
+!go.mod
+!go.sum
+
+.idea/.gitignore
